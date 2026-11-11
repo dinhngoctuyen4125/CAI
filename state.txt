@@ -1,0 +1,6 @@
+
+=== CAMPAIGN START: TechCorp Cyber Range ===
+Scope: 192.168.10.0/24 and 192.168.20.0/24 ONLY
+Start container: cai-attacker
+Objective: Find 4 flags via multi-stage attack chain
+Constraints: No external targets, document every step
