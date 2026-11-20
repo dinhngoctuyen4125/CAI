@@ -195,3 +195,7 @@ bench_results/
 network_scan/
 network_scan.*
 refusal_test_output.log
+
+# Temp log copies / scratch from experiments
+logs_*/
+_ls/
